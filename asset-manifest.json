@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paras-mehra/Web-Buzz.git/static/css/main.da115be7.css",
+    "main.js": "/paras-mehra/Web-Buzz.git/static/js/main.a3f8dd7b.js",
+    "index.html": "/paras-mehra/Web-Buzz.git/index.html",
+    "main.da115be7.css.map": "/paras-mehra/Web-Buzz.git/static/css/main.da115be7.css.map",
+    "main.a3f8dd7b.js.map": "/paras-mehra/Web-Buzz.git/static/js/main.a3f8dd7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da115be7.css",
+    "static/js/main.a3f8dd7b.js"
+  ]
+}
